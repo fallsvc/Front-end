@@ -1,0 +1,62 @@
+ div {
+ color: blueviolet;
+}
+/* id 选择器 */
+/* #div1 {
+ color: brown;
+} */
+/* class 选择器 */
+/* .font40 {
+    font-size: 40px;
+} */
+/* 通配符选择器 */
+/* * {
+    color: blue;
+}  */
+
+/* 复合选择器 */
+/* #div1,#div2 {
+    color: aqua;
+}
+
+ol li {
+    color: red;
+} */
+ /* ol li a {
+    color:burlywood;
+ }
+ ul .first {
+    color: aqua;
+ } */
+
+ /* #div4 a {
+    color: rebeccapurple;
+ } */
+
+ /* css 样式 */
+
+ div {
+    color: rgb(130, 14, 208);
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    /* border-width: 10px;
+    border-color: blueviolet gold green yellow;
+    border-style: solid; */
+
+    border: 5px solid purple;
+    
+ }
+
+ #div3 {
+    display: block;
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    /* border-width: 10px;
+    border-color: blueviolet gold green yellow;
+    border-style: solid; */
+
+    border: 5px solid purple;
+    
+ }
